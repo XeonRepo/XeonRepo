@@ -15,17 +15,46 @@ Currently, I'm going deeper into **ARM Cortex-M architecture, RTOS internals, Em
 
 ## 🧑‍💻 About Me
 
-- 🎓 B.Tech in **Electronics & Communication Engineering** — 2023–2027
-- 🔧 Focused on **Embedded Systems & Firmware Engineering**
-- ⚙️ Working with **ARM Cortex-M, STM32, ESP32, Arduino and other microcontroller platforms**
-- 🧠 Exploring **RTOS design, task scheduling, synchronization and context switching**
-- 🔌 Working with **UART, SPI, I²C, ADC and PWM**
-- 🛠️ Interested in **PCB Design, Hardware Debugging and Industrial Electronics**
-- 🚂 Completed a **6-week industrial internship at Banaras Locomotive Works (BLW), Varanasi**
-- 🐧 Comfortable working with **Linux and Git**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 Education & Focus
+
+- **B.Tech — Electronics & Communication Engineering**
+- **2023 – 2027**
+- Embedded Systems
+- Firmware Engineering
+- Real-Time Systems
+- IoT & Industrial Electronics
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Engineering
+
+- ARM Cortex-M
+- STM32 • ESP32 • Arduino
+- FreeRTOS & RTOS Concepts
+- UART • SPI • I²C
+- ADC • PWM • GPIO
+- PCB Design & Hardware Debugging
+
+</td>
+</tr>
+</table>
+
+### 🏭 Industrial Exposure
+
+**Banaras Locomotive Works (BLW), Varanasi**  
+`6-Week Summer Internship • June 2026 – July 2026`
+
+Exposure to **SCADA, industrial automation, process control, locomotive testing, traction control systems, industrial communication networks, and electronic control systems.**
+
+> I like understanding systems from the hardware level up — **how the circuit works, how the firmware controls it, and how the complete system behaves in the real world.**
 
 ---
-
 # ⚡ Technical Skills
 
 ### 💻 Programming
