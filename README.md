@@ -1,13 +1,16 @@
-# Hi, I'm Armaan Ahemad 👋
+<p align="center">
+  <img src="./banner.png" width="100%" alt="XEON LAB - Armaan Ahemad">
+</p>
 
-### Electronics & Communication Engineering Student | Embedded Systems | Firmware
+## 🧑‍💻 Embedded Systems Engineer in Progress
 
-I'm a final-year **Electronics & Communication Engineering** student with a strong interest in **Embedded Systems, Firmware Development, Real-Time Operating Systems, and IoT**.
+I'm a final-year **Electronics & Communication Engineering** student focused on **Embedded Systems, Firmware Development, Real-Time Operating Systems, and IoT**.
 
 I enjoy working close to the hardware — writing firmware, interfacing peripherals, debugging systems, and understanding how software interacts with microcontrollers.
 
 Currently, I'm going deeper into **ARM Cortex-M architecture, RTOS internals, Embedded C, and low-level firmware development**.
 
+> **Hardware gives the system a body. Firmware gives it a brain.**
 ---
 
 ## 🧑‍💻 About Me
