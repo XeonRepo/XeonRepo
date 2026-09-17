@@ -365,7 +365,7 @@ My repositories are a record of my progression from **electronics fundamentals t
 I'm continuously adding projects, experiments and technical implementations as I learn.
 
 <p align="center">
-  <a href="https://github.com/XeonRepo">
+  <a href="https://github.com/XeonRepo?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github" alt="Explore GitHub">
   </a>
 </p>
