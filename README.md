@@ -209,7 +209,7 @@ An IoT-enabled electrical monitoring system designed to detect **three-phase pow
 ### 🎯 Project Objective
 To develop a practical monitoring system capable of detecting electrical faults and communicating important system conditions remotely.
 
-🔗 **Project Repository:** https://github.com/XeonRepo/IoT-Power-Failure-Monitoring
+🔗 **Project Repository:** https://github.com/XeonRepo/IoT-Based-Three-Phase-Power-Failure-Monitoring-with-SMS-Alerts.git
 
 ---
 
