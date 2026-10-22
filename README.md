@@ -82,6 +82,10 @@ Phoenix OS is a low-level embedded systems project exploring how firmware can de
 
 The project combines **custom RTOS development, context switching, scheduling, synchronization, bootloader design and firmware recovery** into one experimental embedded architecture.
 
+## 🎥 Project Treaser
+
+https://github.com/XeonRepo/XeonRepo/blob/main/Phoenix_OS.mp4
+
 ```text
                          APPLICATION
                               │
