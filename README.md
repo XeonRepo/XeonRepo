@@ -84,7 +84,7 @@ The project combines **custom RTOS development, context switching, scheduling, s
 
 ## 🎥 Project Treaser
 
-https://github.com/XeonRepo/XeonRepo/blob/main/Phoenix_OS.mp4
+https://github.com/user-attachments/assets/2fbb811e-c210-4eb5-a131-44ed7a5d03f0
 
 ```text
                          APPLICATION
